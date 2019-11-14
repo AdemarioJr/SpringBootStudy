@@ -10,6 +10,6 @@ public class HomeController {
     @RequestMapping("/home")
     @ResponseBody
     public String index() {
-        return "Bem vindo ao curso Forum Caelum--->>";
+        return "Bem vindo ao curso Forum Caelum :--->>";
     }
 }
